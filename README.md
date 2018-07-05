@@ -1,4 +1,4 @@
-# Creative-Eval-Board
+# Creative Evaluation Board
 Future Electronics Creative Eval Board featuring a Microsemi [SmartFusion2](http://www.futureelectronics.com/en/Technologies/Product.aspx?ProductID=FUTUREM2SFEVBFUTUREELECTRONICSDEVTOOLS3091560&IM=0) or [IGLOO2](http://www.futureelectronics.com/en/Technologies/Product.aspx?ProductID=FUTUREM2GLEVBFUTUREELECTRONICSDEVTOOLS7091559&IM=0) FPGA
 
 ## Content
