@@ -13,7 +13,7 @@ Documents: Quick Start, User Guide, BOM, Flyer
 6. Creative IGLOO2 Tic Tac Toe Demo from Microsemi featuring a RISC-V softcore system (Libero SoC 11.8)
 7. Creative SmartFusion2 Tic Tac Toe Demo from Microsemi featuring a RISC-V softcore system (Libero SoC 11.8)
 8. Creative IGLOO2 Mi-V Tic-Tac-Toe Demo featuring a Mi-V softcore system supporting 2 Touchscreen TFT from Adafruit 
-9. Creative SmartFusion2 Mi-V Tic-Tac-Toe Demo featuring a Mi-V softcore system supporting 2 Touchscreen TFT from Adafruit (coming soon)
+9. Creative SmartFusion2 Mi-V Tic-Tac-Toe Demo featuring a Mi-V softcore system supporting 2 Touchscreen TFT from Adafruit
 10. Creative IGLOO2 FreeRTOS Demo featuring a Mi-V softcore system running a 8.2.3 FreeRTOS with a simple blinky app
 
 
